@@ -8,13 +8,13 @@ import { getDatabase } from "firebase/database";
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCTSYTtVNZyHyrqPkmle7X4xmTwFc6NRro",
-  authDomain: "busybuy-81521.firebaseapp.com",
-  databaseURL: "https://busybuy-81521-default-rtdb.firebaseio.com/",
-  projectId: "busybuy-81521",
-  storageBucket: "busybuy-81521.appspot.com",
-  messagingSenderId: "110576615170",
-  appId: "1:110576615170:web:21a58295359a8c90b74c1b"
+  apiKey://your google api key,
+  authDomain: //your google authDomain,
+  databaseURL: // databaseURL ,
+  projectId: projectId,
+  storageBucket:  // storageBucket,
+  messagingSenderId: //your  messagingSenderId ,
+  appId: 
 };
 
 // Initialize Firebase

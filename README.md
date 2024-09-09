@@ -1,6 +1,6 @@
-# Busy Buy E-Commerce Project
+# QuikCart E-Commerce Project
 
-Welcome to the Busy Buy project! This is an e-commerce web application built using React.js and Firebase. It's designed to provide users with the ability to explore, select, and purchase a variety of products online. The project incorporates several key features to enhance the user experience.
+Welcome to the QuikCart project! This is an e-commerce web application built using React.js and Firebase. It's designed to provide users with the ability to explore, select, and purchase a variety of products online. The project incorporates several key features to enhance the user experience.
 
 ## Key Features
 

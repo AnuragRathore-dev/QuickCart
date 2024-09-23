@@ -5,9 +5,6 @@ import { NavLink, Outlet } from 'react-router-dom';
 /** ------------------ IMPORTING HOOKS ------------------ **/
 import { useValue } from '../../context';
 
-
-
-/** ------------------ Function to show the Navbar ------------------ **/
 function Navbar() {
   // Accessing values from the context
   const { userPresent, handleLogout, searchTerm, setSearchTerm } = useValue();

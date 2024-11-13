@@ -1,4 +1,4 @@
-const data = [ 
+const data = [  
   {
     id: 1,img: 'https://cdn.shopify.com/s/files/1/0306/0111/7741/products/0ECD3C14-E1F3-4C69-98DC-3D1D5852B407_1_201_a_e07fce49-34e4-4b20-9ef2-286b81a03bf3.jpg',
     title: 'Black Printed T-shirt',

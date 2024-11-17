@@ -1,4 +1,4 @@
- 
+
 import { GridLoader } from "react-spinners";
 
 const Loader = () => {

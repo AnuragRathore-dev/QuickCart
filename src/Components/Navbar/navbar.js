@@ -1,4 +1,4 @@
-  
+
 import Style from "./navbar.module.css";
 /** ------------------ IMPORTING ROUTER MODULES ------------------ **/
 import { NavLink, Outlet } from 'react-router-dom';

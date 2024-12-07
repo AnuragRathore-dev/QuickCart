@@ -1,5 +1,5 @@
 /** ------------------ IMPORTING CSS ------------------ **/
-import Style from './home.module.css';
+import Style from './home.module.css;
 /** ------------------ IMPORTING HOOKS ------------------ **/
 import { useValue } from '../../context';
 import { useState } from 'react';
